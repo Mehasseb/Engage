@@ -55,16 +55,16 @@ If the merge succeeds, use `git diff origin/develop` to review all the changes t
 - "Build tools for others that you want to be built for you." - Kenneth Reitz
 - "Simplicity is alway better than functionality." - Pieter Hintjens
 - "Fit the 90% use-case. Ignore the nay sayers." - Kenneth Reitz
-- "Beautiful is better than ugly." - [PEP 20][]
+- "Beautiful is better than ugly." - [PEP 20](https://www.python.org/dev/peps/pep-0020/)
 - Build for open source (even for closed source projects).
 
 ### General Development Guidelines
 
-- "Explicit is better than implicit" - [PEP 20][]
-- "Readability counts." - [PEP 20][]
+- "Explicit is better than implicit" - [PEP 20](https://www.python.org/dev/peps/pep-0020/)
+- "Readability counts." - [PEP 20](https://www.python.org/dev/peps/pep-0020/)
 - "Anybody can fix anything." - [Khan Academy Development Docs][]
 - Fix each [broken window](http://www.artima.com/intv/fixit2.html) (bad design, wrong decision, or poor code) *as soon as it is discovered*.
-- "Now is better than never." - [PEP 20][]
+- "Now is better than never." - [PEP 20](https://www.python.org/dev/peps/pep-0020/)
 - Test ruthlessly. Write docs for new features.
 - Even more important that Test-Driven Development--*Human-Driven Development*
 - These guidelines may--and probably will--change.
@@ -73,7 +73,7 @@ If the merge succeeds, use `git diff origin/develop` to review all the changes t
 
 ### Style
 
-Follow [PEP 8][], when sensible.
+Follow [PEP 8](https://www.python.org/dev/peps/pep-0008/), when sensible.
 
 #### Naming
 
