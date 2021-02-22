@@ -5,7 +5,7 @@ The purpose of this repository is to list the rules of engagement, how to submit
 <Description Place Holder>
 <Link to dedicated MD file with info specific to this section>
 
-## General submission guidelines
+## [General submission guidelines](https://github.com/k8-proxy/Engage/blob/develop/Code-submission-guidelines.md)
 <Description Place Holder>
 <Link to dedicated MD file with info specific to this section>
 
