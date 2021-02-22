@@ -7,6 +7,7 @@ will kindly ask you to resubmit it in the correct format.
 - [Submitting a pull request](#submitting-a-pull-request)
 - [Merging a pull request](#merging-a-pull-request)
 - [python guide](#guide-for-python)
+- [Golang guidelines](Golang-guidelines)
 
 
 
@@ -46,6 +47,9 @@ curl -L https://github.com/dequelabs/axe-core/pull/205.patch | git am -3
 ```
 
 If the merge succeeds, use `git diff origin/develop` to review all the changes that will happen post-merge.
+
+## Golang guidelines
+[Click this link](https://blog.golang.org/godoc)
 
 
 # Guide for python
